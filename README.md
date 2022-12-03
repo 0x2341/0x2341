@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @0x2341
+- 👀 I’m interested in network management
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on a AI based network management tool
